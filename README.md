@@ -7,9 +7,6 @@ A lightweight and efficient desktop calculator built using **C++** and the **Win
 ## 👤 Developer Information
 
 * **Developer Name:** Namra Irfan
-* **Registration Number:** 251301014
-* **Course:** ICT Lab Semester Project
-* **Submitted To:** Sir Ahsan Fiaz
 
 ---
 
